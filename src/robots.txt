@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://black-friday-rights.agenticcells.site/sitemap.xml
